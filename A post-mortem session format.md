@@ -11,6 +11,7 @@ During this portion of the post-mortem session, our goal is to discover the fact
   * Did we have all the tools necessary to troubleshoot the problem quickly?
 * What were the root causes of the incident? Keep in mind that there is rarely just a single cause.
 * How was the issue resolved?
+* How was the incident communicated to stakeholders/customers? (Status blog, email, etc)
 
 ## Retrospective
 The second part of the post-mortem session is to consider what we can learn from this incident.
@@ -22,5 +23,6 @@ The second part of the post-mortem session is to consider what we can learn from
 * Can we improve our monitoring processes to catch this type of incident in the future?
 * Can we improve our ability to troubleshoot this type of incident? How?
 * What other parts of the Incident Response process could we improve?
+* How could we improve communication within our team, and with stakeholders/customers?
 
 It’s important to note that this process is blameless. We aren’t interested in finding anyone to discipline or point fingers at; this is an opportunity for us to learn and improve our team and our business!
